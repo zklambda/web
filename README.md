@@ -41,4 +41,4 @@ Ali Necati ALTAY, Baturalp GÜVENÇ, Yiğid BALABAN, Salih ERYILMAZ
 
 November 2024
 
-[GitHub](https://github.com/zk-Lokomotive) | [X](https://x.com/zklokomotive) | [Docs](https://git.fybx.dev/fyb/zkl-docs) | [Contact](mailto:contact@zk-lokomotive.xyz)
+[GitHub](https://github.com/zklambda) | [X](https://x.com/zklambda) | [Docs](https://git.fybx.dev/fyb/zkl-docs) | [Contact](mailto:contact@zk-lokomotive.xyz)
